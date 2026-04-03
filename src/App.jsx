@@ -46,7 +46,7 @@ function Hero() {
         <section ref={heroRef} className="relative h-screen w-full bg-[#050505] overflow-hidden flex flex-col justify-between pt-32 pb-12 px-6 border-b border-white/10">
             <div className="absolute inset-0 z-0 opacity-40 mix-blend-luminosity">
                 <img
-                    src="/football-hero.png"
+                    src="https://images.unsplash.com/photo-1557174949-3b1f5b2e8fac?q=80&w=2800&auto=format&fit=crop"
                     alt="Athletic focus"
                     className="w-full h-full object-cover hero-img"
                 />
@@ -220,7 +220,7 @@ function TheWork() {
                     </div>
                     <div className="md:col-span-6 md:col-start-7">
                         <div className="aspect-[4/5] bg-[#050505] overflow-hidden grayscale hover:grayscale-0 transition-all duration-700">
-                            <img src="https://images.unsplash.com/photo-1519315901367-f34f915528bf?q=80&w=2787&auto=format&fit=crop" className="w-full h-full object-cover opacity-80" alt="Focus" />
+                            <img src="https://images.unsplash.com/photo-1566579090262-51cde5ebe92e?q=80&w=2800&auto=format&fit=crop" className="w-full h-full object-cover opacity-80" alt="Focus" />
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,7 @@ function TheWork() {
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-center mb-40">
                     <div className="md:col-span-6 md:col-start-1 order-2 md:order-1">
                         <div className="aspect-[16/9] bg-[#050505] overflow-hidden grayscale hover:grayscale-0 transition-all duration-700">
-                            <img src="https://images.unsplash.com/photo-1461896836934-ffe607fa8211?q=80&w=2940&auto=format&fit=crop" className="w-full h-full object-cover opacity-80" alt="Training" />
+                            <img src="https://images.unsplash.com/photo-1537882111161-c3379a777c8b?q=80&w=2800&auto=format&fit=crop" className="w-full h-full object-cover opacity-80" alt="Training" />
                         </div>
                     </div>
                     <div className="md:col-span-5 md:col-start-8 order-1 md:order-2">
